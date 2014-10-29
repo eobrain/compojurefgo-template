@@ -1,4 +1,4 @@
-(defproject compojurefgo/lein-template "0.4.0"
+(defproject compojurefgo/lein-template "0.4.1"
   :description "Funcgo Compojure project template for Leiningen"
   :url "https://github.com/eobrain/compojurefgo-template"
   :eval-in-leiningen true
